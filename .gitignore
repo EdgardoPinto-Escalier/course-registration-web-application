@@ -5,6 +5,10 @@ build/
 !**/src/main/**
 !**/src/test/**
 
+### Sensitive Data ###
+src/main/resources/application.properties
+
+
 ### STS ###
 .apt_generated
 .classpath
@@ -30,5 +34,3 @@ out/
 
 ### VS Code ###
 .vscode/
-
-src/main/resources/application.properties
