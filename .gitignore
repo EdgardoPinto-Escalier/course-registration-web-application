@@ -5,8 +5,8 @@ build/
 !**/src/main/**
 !**/src/test/**
 
-#### Sensitive Data ####
-.application.properties
+#### Sensitive Data####
+application.properties
 
 ### STS ###
 .apt_generated
