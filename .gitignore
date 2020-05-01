@@ -6,7 +6,8 @@ build/
 !**/src/test/**
 
 ### Sensitive Data ###
-application.properties
+/application.properties
+.properties
 
 
 ### STS ###
